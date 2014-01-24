@@ -1,6 +1,6 @@
 # Cleverstack Browser Detect Module
 
-This module provides an AngularJS Service which you can use to detect browsers and OS.
+This front-end module provides an AngularJS Service which you can use to detect browsers and OS.
 
 
 ## Setup - Using CLI.
