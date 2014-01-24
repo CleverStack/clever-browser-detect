@@ -1,0 +1,25 @@
+{
+  "name": "clever-browser-detect",
+  "version": "0.0.1",
+  "authors": [
+    "Sam Deering <sam@clevertech.biz>"
+  ],
+  "description": "This module provides an AngularJS Service which you can use to detect browsers and OS.",
+  "main": "main.js",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-frontend"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CleverStack/clever-browser-detect",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "rename": "cs_browserdetect"
+}
